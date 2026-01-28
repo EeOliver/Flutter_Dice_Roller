@@ -40,3 +40,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Modern UI
 - Cool gradient background with cards, sliders and even the buttons are pretty!
+
+<img width="427" height="850" alt="png" src="https://github.com/user-attachments/assets/7859eea8-0058-46ed-8284-c0b20e3cec57" />
