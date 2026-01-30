@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Dice Rolling App With Modifiers!
-- The Ultimate app fpr your gambling needs!
+- The Ultimate app for your gambling needs!
 
 ## Features
 - Multiple Dice Types
